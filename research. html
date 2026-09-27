@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>البحث والتجريب — Turathi.com</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="grain"></div>
+<header class="site-header">
+<div class="container nav-row">
+<a href="index.html" class="brand">
+<span class="brand-mark">ت</span>
+<span>Turathi.com</span>
+</a>
+<nav class="main-nav">
+<a href="index.html">الرئيسية</a>
+<a href="domains.html">المجالات</a>
+<a href="research.html">البحث والتجريب</a>
+<a href="contact.html">اتصل بنا</a>
+</nav>
+<button class="menu-toggle">☰</button>
+</div>
+</header><main>
+<section class="hero" style="padding-bottom:20px;">
+<div class="container">
+<div class="kicker">المنهج</div>
+<h1 style="font-size:42px; max-width:760px;">لا نبتكر قبل أن نفهم</h1>
+<p class="lead">كل عمل في تُراثي يمر بمسار واضح من الملاحظة إلى التوثيق فالتجريب، قبل الوصول إلى أي نتيجة قابلة للتطبيق.</p>
+</div>
+</section>
+<section>
+<div class="container">
+<div class="approach-list">
+<div class="approach-item">
+<div class="step-mark">١</div>
+<div>
+<h3>الملاحظة الميدانية</h3>
+<p>جمع معطيات مباشرة من البيئة المحلية والممارسات القائمة، دون افتراضات مسبقة.</p>
+</div>
+</div>
+<div class="approach-item">
+<div class="step-mark">٢</div>
+<div>
+<h3>توثيق المعرفة التراثية</h3>
+<p>تسجيل الممارسات والمعارف المتوارثة كمرجع أساسي لأي خطوة لاحقة.</p>
+</div>
+</div>
+</div>
+</div>
+</section><section>
+<div class="container">
+<div class="approach-list">
+<div class="approach-item">
+<div class="step-mark">٣</div>
+<div>
+<h3>التجريب المضبوط</h3>
+<p>اختبار الفرضيات في بيئة محكومة، مع تسجيل النتائج دون تسرّع بالاستنتاج.</p>
+</div>
+</div>
+<div class="approach-item">
+<div class="step-mark">٤</div>
+<div>
+<h3>تقييم الأثر البيئي</h3>
+<p>قياس أثر أي نتيجة على البيئة المحيطة قبل النظر في تعميمها.</p>
+</div>
+</div>
+<div class="approach-item">
+<div class="step-mark">٥</div>
+<div>
+<h3>الابتكار المسؤول</h3>
+<p>الوصول لحل جديد فقط بعد اجتياز كل الخطوات السابقة، بما يحافظ على الهوية المحلية.</p>
+</div>
+</div>
+</div>
+<div class="note-box">
+<span class="icon">🔒</span>
+<span>تفاصيل التركيبات ومعايير المعالجة الخاصة بالابتكارات قيد التطوير تُحفظ داخلياً ولا تُنشر إلا بعد اكتمالها.</span>
+</div>
+</div>
+</section></main>
+<footer class="site-footer">
+<div class="container">
+<div class="footer-bottom">
+<span>© 2026 Turathi.com</span>
+</div>
+</div>
+</footer>
+</body>
+</html>
