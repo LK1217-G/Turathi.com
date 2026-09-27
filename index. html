@@ -21,4 +21,14 @@
 </nav>
 <button class="menu-toggle">☰</button>
 </div>
-</header>
+</header><main>
+<section class="hero">
+<div class="container hero-inner">
+<div>
+<div class="kicker">مواد محلية · تراث · ثقافة بيئية</div>
+<h1>من الأرض التي نعرفها، نبتكر ما يستحق أن يُروى</h1>
+<p class="lead">تُراثي مساحة بحث وتجريب تربط بين المواد المحلية والمعرفة الحرفية الموروثة، لصياغة ابتكارات تحترم البيئة وتحمل هوية المكان.</p>
+</div>
+</div>
+</section>
+</main>
