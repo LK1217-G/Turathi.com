@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Turathi.com</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body><div class="grain"></div>
+<header class="site-header">
+<div class="container nav-row">
+<a href="index.html" class="brand">
+<span class="brand-mark">ت</span>
+<span>Turathi.com</span>
+</a>
+<nav class="main-nav">
+<a href="index.html">الرئيسية</a>
+<a href="domains.html">المجالات</a>
+<a href="research.html">البحث والتجريب</a>
+<a href="contact.html">اتصل بنا</a>
+</nav>
+<button class="menu-toggle">☰</button>
+</div>
+</header>
