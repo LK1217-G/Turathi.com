@@ -32,7 +32,7 @@ img{ max-width:100%; display:block; }
   position:fixed; inset:0; pointer-events:none; opacity:.05; z-index:0;
   background-image: radial-gradient(circle at 1px 1px, var(--ink) 1px, transparent 0);
   background-size: 14px 14px;
-}
+} 
 
 /* ---------- Header / Nav ---------- */
 header.site-header{
@@ -194,4 +194,4 @@ footer.site-footer{ border-top:1px solid var(--line); padding:44px 0 30px; margi
 @media (max-width: 480px){
   .values-row{ grid-template-columns:1fr; }
   .hero h1{ font-size:30px; }
-}
+} 
