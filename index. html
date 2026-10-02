@@ -6,6 +6,7 @@
 <title>Turathi.com</title>
 <link rel="stylesheet" href="css/style.css">
 </head>
+<link rel="stylesheet" href="test.css">
 <body><div class="grain"></div>
 <header class="site-header">
 <div class="container nav-row">
